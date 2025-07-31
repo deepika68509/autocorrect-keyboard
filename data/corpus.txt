@@ -1,0 +1,1 @@
+this is a sample corpus for next word prediction. you can replace this with a larger dataset.
